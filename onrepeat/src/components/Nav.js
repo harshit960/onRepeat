@@ -72,7 +72,7 @@ export default function
             </div>
             <div>
                 <h3
-                    class="text-xs text-gray-100 uppercase text-white px-6 tracking-widest font-light mb-4"
+                    class="text-xs uppercase text-white px-6 tracking-widest font-light mb-4"
                 >
                     Playlists
                 </h3>
@@ -107,12 +107,12 @@ export default function
                 <hr class="border-gray-200 mx-6 mb-3" />
                 <div>
                     <div
-                        class="px-6 py-2 flex items-center text-sm text-white text-gray-100 hover:text-white"
+                        class="px-6 py-2 flex items-center text-sm text-white  hover:text-white"
                     >
                         Liked from Radio
                     </div>
                     <div
-                        class="px-6 py-2 flex items-center text-sm text-white text-gray-100 hover:text-white"
+                        class="px-6 py-2 flex items-center text-sm text-white  hover:text-white"
                     >
                         Discover Weekly
                     </div>
